@@ -19,6 +19,8 @@ Nome científico: Panthera leo.
 Habitat Natural: Era um animal difundido por várias partes do planeta, mas a caça o extinguiu em muitas regiões e hoje o encontramos apenas na África subsaariana e na Ásia. 
 Ordem: Carnívoros
 Categoria: mamífero
-Média de peso: o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fêmea pesa em torno de 120kg mas pode chegar a 180kg.
-Reprodução: Os machos alfas copulam com as fêmeas do bando, numa média de 2,2 vezes por hora no período de estro. As fêmeas podem entrar no cio em qualquer época do ano, com picos na estação chuvosa. Normalmente se reproduzem a cada dois anos. Elas atingem a maturidade sexual aos quatro anos de idade e os machos aos cinco. 
+Média de peso: o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fêmea pesa em torno de 120kg 
+mas pode chegar a 180kg.
+Reprodução: Os machos alfas copulam com as fêmeas do bando, numa média de 2,2 vezes por hora no período de estro. As fêmeas
+podem entrar no cio em qualquer época do ano, com picos na estação chuvosa. Normalmente se reproduzem a cada dois anos. Elas atingem a maturidade sexual aos quatro anos de idade e os machos aos cinco. 
 Expectativa de vida: Vivem de 10 a 14 anos na natureza, mas podem chegar aos 20 anos em cativeiro.
