@@ -1,26 +1,172 @@
-ï»¿Animais do zoolÃ³gico
+Animais do zoológico
 
+Hipopótamo - 
 
-HipopÃ³tamo - 
+Nome científico: Hippopotamus amphibius.    
+Habitat natural: rios e lagoas grandes e profundas com áreas adjacentes para pastagem em quase todos os países da África e na Palestina.
+Ordem: Artiodáctilos.
+Classe: mamíferos (mega-herbívoros).
+Média de peso: 3 a 4 toneladas.
+Reprodução: A maturidade sexual em cativeiro é atingida entre 3 e 4 anos. Já na vida selvagem os machos não conseguem se acasalar antes dos 6 a 13 anos e as fêmeas entre 7 e 15 anos.
+Expectativa de vida: Podem viver até os 41 anos livres e 54 anos em cativeiro.
+Curiosidades: podem permanecer por até 5 minutos submersos.
+Curiosidades: Suas presas podem chegar a ter 50 centimetros.
 
-
-Nome cientÃ­fico: Hippopotamus amphibius.    
-Habitat natural: rios e lagoas grandes e profundas com Ã¡reas adjacentes para pastagem em quase todos os paÃ­ses da Ãfrica e na Palestina.
-Ordem: ArtiodÃ¡ctilos.
-Categoria: mamÃ­feros (mega-herbÃ­voros).
-MÃ©dia de peso: 3 a 4 toneladas.
-ReproduÃ§Ã£o: A maturidade sexual em cativeiro Ã© atingida entre 3 e 4 anos. JÃ¡ na vida selvagem os machos nÃ£o conseguem se acasalar antes dos 6 a 13 anos e as fÃªmeas entre 7 e 15 anos.
-Expectativa de vida: Podem viver atÃ© os 41 anos livres e 54 anos em cativeiro.
-Curiosidades: podem permanecer por atÃ© 5 minutos submersos.
-
-
-LeÃ£o -
-Nome cientÃ­fico: Panthera leo.
-Habitat Natural: Era um animal difundido por vÃ¡rias partes do planeta, mas a caÃ§a o extinguiu em muitas regiÃµes e hoje o encontramos apenas na Ãfrica subsaariana e na Ãsia. 
-Ordem: CarnÃ­voros
-Categoria: mamÃ­fero
-MÃ©dia de peso: o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fÃªmea pesa em torno de 120kg 
-mas pode chegar a 180kg.
-ReproduÃ§Ã£o: Os machos alfas copulam com as fÃªmeas do bando, numa mÃ©dia de 2,2 vezes por hora no perÃ­odo de estro. As fÃªmeas
-podem entrar no cio em qualquer Ã©poca do ano, com picos na estaÃ§Ã£o chuvosa. Normalmente se reproduzem a cada dois anos. Elas atingem a maturidade sexual aos quatro anos de idade e os machos aos cinco. 
+Leão -
+Nome científico: Panthera leo.
+Habitat Natural: Era um animal difundido por várias partes do planeta, mas a caça o extinguiu em muitas regiões e hoje o encontramos apenas na África subsaariana e na Ásia. 
+Ordem: Carnívoros
+Classe: mamífero
+Média de peso: o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fêmea pesa em torno de 120kg mas pode chegar a 180kg.
+Reprodução: Os machos alfas copulam com as fêmeas do bando, numa média de 2,2 vezes por hora no período de estro. As fêmeas podem entrar no cio em qualquer época do ano, com picos na estação chuvosa. Normalmente se reproduzem a cada dois anos. Elas atingem a maturidade sexual aos quatro anos de idade e os machos aos cinco. 
 Expectativa de vida: Vivem de 10 a 14 anos na natureza, mas podem chegar aos 20 anos em cativeiro.
+Curiosidades: Ao rugir, o leão pode ser ouvido a uma distância de, aproximadamente, 8 quilômetros.
+
+Lobo Guará – 
+Nome científico: Chysocyon brachyurus
+Habitat Natural:  Geralmente é visto de cima, habita em campos abertos, com vegetação de arbustos e áreas de bosque com o dossel aberto
+Ordem: carnívoro.
+Classe: mamífero.
+Média de peso: 20 a 30kg
+Reprodução: O lobo guará é sozinho, diferente de outros lobos ele não vive em alcateia, mas durante o período de reprodução fica junto a sua companheira. Se reproduzem uma vez por ano e a gestação dura em média 65 dias.
+Expectativa de vida: Na natureza, vive cerca de 15 anos
+Curiosidades: Também é conhecido como lobo-de-crina, lobo-vermelho, aguará, aguaraçu e jaguaperi, todos nomes atrelados a sua bela pelagem laranja-avermelhada, que o torna um dos mais belos animais brasileiros.
+
+Cacatua - 
+Nome científico: Cacatuidae 
+Habitat natural:  As cacatuas têm distribuição geográfica restrita à Oceania (mais precisamente nas florestas australianas) e em ilhas vizinhas do Pacífico.
+Ordem: Psitaciformes
+Classe: Aves
+Média de peso: entre 500g e 900g
+Reprodução: se reproduzem com 4 ou 5 anos, geralmente a fêmea bota de 2 a 5 ovos e os incubam por cerca de 1 mês.
+Expectativa de vida: de 40 a 60 anos
+Curiosidade: Há cerca de 20 espécies de cacatuas.
+
+Papagaio - 
+Nome científico: Amazona
+Habitat natural:  Floresta úmida ou seca, bosques de palmeiras ou margens de rios.
+Ordem: Psitaciformes
+Classe: Aves
+Média de peso: 240g
+Reprodução: Atingem maturidade sexual entre dois e três anos. Botam três ou mais ovos, que eclodem em aproximadamente um mês.
+Expectativa de vida: Na natureza mais de 60 anos! Em cativeiro, com uma dieta balanceada, vivem em média 20 anos, sempre com seu característico bom humor. 
+Curiosidade: Ao todo, são mais de 30 espécies, das quais 12 ocorrem no Brasil. 
+
+Guepardo -
+Nome científico: Acinonyx jubatus
+Habitat natural: Savanas, planícies arborizadas e zonas semidesérticas.
+Ordem: Carnívora
+Classe: Mamífero
+Média de peso: 35 – 43kg
+Reprodução: A fêmea é poliéstrica, está recetiva em intervalos curtos de tempo, várias vezes por ano. Por ninhada, nascem em média 4 crias que são amamentadas durante cerca de 4 meses.
+Expectativa de vida: Alguns guepardos, nos zoológicos, conseguiram chegar aos 19 anos, mas a maioria não vive tanto
+Curiosidade: As garras deste animal são semi-retráteis, de modo a facilitarem o alcance de grandes velocidades. Dessa forma, suas patas não se assemelham à patas de felinos, e sim de cachorros.
+
+
+Coala – 
+Nome científico: Phascolarctos cinereus
+Habitat natural: Florestas de eucalipto.
+Ordem: Diprotodontia
+Classe: Mamíferos
+Média de peso: 4 – 15 kg (adulto grande)
+Reprodução: Na época de reprodução, os machos lutam entre si para manterem um pequeno harém de fêmeas reprodutoras
+Expectativa de vida: 13 a 18 anos
+Curiosidade: Apenas a fêmea apresenta bolsa marsupial, cuja abertura vertical tem um posicionamento ventral.
+
+Mico leão dourado -
+Nome científico: Leontopithecus rosalia
+Habitat natural: Floresta tropical húmida atlântica.
+Ordem: Primates
+Classe: Mamíferos
+Média de peso: 800g 
+Reprodução: A fêmea dominante inibe a atividade reprodutora das fêmeas subordinadas. Existe cooperação de todos os elementos do grupo nos cuidados com as crias, sendo o transporte dos juvenis, tarefa habitual do macho.
+Expectativa de vida: Em cativeiro foi constatado que podem viver até 14,2 anos.
+Curiosidade: A pelagem varia do dourado ao alaranjado com uma juba muito característica, que lhe conferiu o nome popular. Apresenta garras em vez de unhas e o terceiro dedo da mão é muito longo e usado para procurar presas.
+
+Crocodilo – 
+Nome científico: Crocodylidae
+Habitat natural: Rios, lagos, pântanos e zonas costeiras.
+Ordem: Crocodylia
+Classe: Répteis
+Média de peso: 1 t
+
+Reprodução: No ritual de acasalamento o macho esfrega a garganta no pescoço da fêmea e segrega um cheiro que a estimula. A cópula ocorre dentro de água. A fêmea constrói o ninho com lama e vegetação e exibe cuidados parentais, guardando os ovos do ninho.
+Expectativa de vida: 70 – 100 anos
+Curiosidade: Filhotes geralmente se alimentam de presas menores, preferindo pequenos peixes, sapos, insetos e pequenos invertebrados aquáticos antes de predar peixes maiores, anfíbios e pequenos répteis.
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nome científico:
+Habitat natural:
+Ordem:
+Classe:
+Média de peso:
+Reprodução:
+Expectativa de vida:
+Curiosidade:
+
+
+
+
+
+
+
+
+
+
+
