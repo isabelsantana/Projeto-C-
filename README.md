@@ -24,3 +24,6 @@ Com o tema livre, várias ideias surgiram e assim vimos que a mais viável seria
 # 1.5 Método de trabalho 
 
 Logo após a escolha do tema pensamos como esse programa funcionaria e escolhemos as classes que iríamos utilizar. Feito isso, começamos a pesquisa sobre os animais, com todas suas características, informações básicas e curiosidades. A partir daí começamos a implementação do código usando POO que nos possibilita infinitas funcionalidades.
+
+
+Integrantes: Isabel Santana e Pietra Lopes
