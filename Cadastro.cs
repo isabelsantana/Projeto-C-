@@ -1,12 +1,12 @@
-class Cadastro{
+ class Cadastro{
   private string nomes;
   private string nomeCientifico;
   private string habitatNatural;
   private string ordem;
   private string classe;
-  private int peso;
+  private string peso;
   private string reproduçao;
-  private int expectativa_de_vida;
+  private string expectativa_de_vida;
 
   public string getNomes(){
     return nomes;
@@ -28,7 +28,7 @@ class Cadastro{
     return classe;
   }
   
-  public int getPeso(){
+  public string getPeso(){
     return peso;
   }
 
@@ -36,21 +36,8 @@ class Cadastro{
     return reproduçao;
   }
 
-   public int getExpectativadeVida(){
+   public string getExpectativadeVida(){
     return expectativa_de_vida;
-  }
-  
-  public void setPeso(int p){
-    peso = p;
-  }
-
-  public void setExpectativadeVida(int edv){
-    expectativa_de_vida = edv;
-  }
-
-  public Cadastro(int p, int edv){
-    peso = p;
-    expectativa_de_vida = edv;
   }
   
   public string[] getNomeAnimais(){
@@ -78,10 +65,8 @@ class Cadastro{
     return classe;
   }
 
-  public int[] getPesoAnimais(){
-    int[] peso =  new int[] { 0 };
-    /*
-    int[] peso = new int[] {"3 a 4 toneladas.", " o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fêmea pesa em torno de 120kg mas pode chegar a 180kg.", "20 a 30kg", "entre 500g e 900g", "240g", "35 – 43kg", "4 – 15 kg", " 800g", "1 t"};*/
+  public string[] getPesoAnimais(){
+    string[] peso = new string[] {"3 a 4 toneladas.", " o macho pesa em torno de 180kg, mas existem registros de animais com 27kg. A fêmea pesa em torno de 120kg mas pode chegar a 180kg.", "20 a 30kg", "entre 500g e 900g", "240g", "35 – 43kg", "4 – 15 kg", " 800g", "1 t"};
     return peso;
   }
   
@@ -90,10 +75,8 @@ class Cadastro{
     return reproduçao;
   }
   
-  public int[] getExpectativadeVidaAnimais(){
-    int[] expectativa_de_vida = new int[] { 0 };
-    /*
-    int[] expectativa_de_vida = new int[] {"Podem viver até os 41 anos livres e 54 anos em cativeiro.", "Vivem de 10 a 14 anos na natureza, mas podem chegar aos 20 anos em cativeiro.", "Na natureza, vive cerca de 15 anos", "Cacatua", "Papagaio", "de 40 a 60 anos", "Na natureza mais de 60 anos! Em cativeiro, com uma dieta balanceada, vivem em média 20 anos, sempre com seu característico bom humor. ", "Em cativeiro foi constatado que podem viver até 14,2 anos.", "70 – 100 anos"};*/
+  public string[] getExpectativadeVidaAnimais(){
+  string[] expectativa_de_vida = new string[] {"Podem viver até os 41 anos livres e 54 anos em cativeiro.", "Vivem de 10 a 14 anos na natureza, mas podem chegar aos 20 anos em cativeiro.", "Na natureza, vive cerca de 15 anos", "Cacatua", "Papagaio", "de 40 a 60 anos", "Na natureza mais de 60 anos! Em cativeiro, com uma dieta balanceada, vivem em média 20 anos, sempre com seu característico bom humor. ", "Em cativeiro foi constatado que podem viver até 14,2 anos.", "70 – 100 anos"};
     return expectativa_de_vida;
   }
 
